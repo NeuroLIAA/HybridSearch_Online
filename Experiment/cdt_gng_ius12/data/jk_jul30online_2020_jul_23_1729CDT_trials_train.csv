@@ -1,0 +1,13 @@
+﻿trialnum,condit,stimamt,stim1posx,stim1posy,stim1col,stim1opa,stim2posx,stim2posy,stim2col,stim2opa,stim3posx,stim3posy,stim3col,stim3opa,stim4posx,stim4posy,stim4col,stim4opa,stim5posx,stim5posy,stim5col,stim5opa,stim6posx,stim6posy,stim6col,stim6opa,stim7posx,stim7posy,stim7col,stim7opa,stim8posx,stim8posy,stim8col,stim8opa,stimsizex,stimsizey,stimdur,targetposx,targetposy,targetcol,corrAns,n,key_resp_2.corr_mean,key_resp_2.corr_raw,key_resp_2.corr_std,key_resp_2.keys_raw,key_resp_2.rt_mean,key_resp_2.rt_raw,key_resp_2.rt_std,order
+1,same,4,0.14,0.14,orange,1,0.14,-0.41,blue,1,-0.14,-0.27,white,1,-0.41,0.14,red,1,0.14,0.41,black,0,0.27,-0.27,green,0,-0.41,-0.27,magenta,0,-0.41,0.41,yellow,0,0.05,0.05,0.15,0.14,-0.41,blue,k,1.0,1.0,1.0,0.0,'k',2.834317922592163,2.834317922592163,0.0,0.0
+2,different,4,0.14,0.41,black,1,0.14,-0.41,green,1,-0.41,-0.27,orange,1,-0.27,0.41,magenta,1,0.14,0.27,red,0,0.41,-0.27,white,0,-0.27,-0.41,yellow,0,-0.27,0.27,blue,0,0.05,0.05,0.15,-0.27,0.41,white,l,1.0,1.0,1.0,0.0,'l',1.5347884893417358,1.5347884893417358,0.0,1.0
+3,same,8,0.27,0.41,yellow,1,0.14,-0.41,white,1,-0.14,-0.27,blue,1,-0.14,0.27,green,1,0.14,0.14,red,1,0.27,-0.27,black,1,-0.27,-0.27,magenta,1,-0.27,0.14,orange,1,0.05,0.05,0.15,-0.14,0.27,green,k,1.0,1.0,1.0,0.0,'k',1.533902645111084,1.533902645111084,0.0,2.0
+4,different,8,0.14,0.41,green,1,0.27,-0.14,red,1,-0.27,-0.14,black,1,-0.14,0.41,orange,1,0.41,0.27,blue,1,0.41,-0.27,magenta,1,-0.14,-0.14,white,1,-0.27,0.14,yellow,1,0.05,0.05,0.15,0.27,-0.14,white,l,1.0,1.0,1.0,0.0,'l',1.4173378944396973,1.4173378944396973,0.0,3.0
+
+extraInfo
+participant,jk
+session,001
+date,2020_jul_23_1729
+expName,jul30online
+psychopyVersion,2020.1.2
+frameRate,59.79834908402298
