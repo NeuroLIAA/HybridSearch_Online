@@ -3,9 +3,9 @@ This repository includes the experiment and analysis from Barbosa, Ruarte, et al
 
 |- Data/
 
- |- Raw/
+    |- Raw/
 
- |- Data/Processed/
+    |- Data/Processed/
 
 |- Experiment/
 
